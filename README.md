@@ -1,1 +1,2 @@
+[![Board Status](https://dev.azure.com/liu1044775469/ecda3b09-0ac3-4a8e-805e-3fbae4b2af45/e487aacd-326c-4537-bb1f-690ac9e9effb/_apis/work/boardbadge/5597add6-ea82-4e67-8876-19e1c1fd1bd6)](https://dev.azure.com/liu1044775469/ecda3b09-0ac3-4a8e-805e-3fbae4b2af45/_boards/board/t/e487aacd-326c-4537-bb1f-690ac9e9effb/Microsoft.RequirementCategory)
 # kirin-city
